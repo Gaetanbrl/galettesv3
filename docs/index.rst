@@ -7,9 +7,11 @@ Welcome to galettes's documentation!
 ====================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Menu
 
+   doc_main/recette.rst
+   doc_main/histoire.rst
 
 
 Indices and tables
