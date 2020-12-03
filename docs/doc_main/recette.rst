@@ -1,4 +1,10 @@
-# Préparation
+.. Authors :
+.. gaetanbrl
+
+.. _recette:
+
+La recette
+=========================
 
 **Etapes de préparation**
 

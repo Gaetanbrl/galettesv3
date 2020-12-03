@@ -1,4 +1,11 @@
-# Un peu d'histoire
+.. Authors :
+.. gaetanbrl
+
+.. _histoire:
+
+L'histoire de la galette
+=========================
+
 
 Les historiens établissent l’origine de la crêpe à 7000 avant Jésus Christ. A cette époque, il s’agissait d’une galette assez épaisse, réalisée  avec une pâte mêlant de l’eau et diverses céréales écrasées. Une pierre plate, bien chaude, permettait la cuisson.
 

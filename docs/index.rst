@@ -6,9 +6,15 @@
 La galette bretonne
 ====================================
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Menu
+Découvrez l'histoire et la recette de la galette bretonne !
 
-   doc_main/recette.rst
-   doc_main/histoire.rst
+.. image:: _img/galette.png
+   :width: 600
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Documentation utilisateur
+
+   doc_main/histoire
+   doc_main/recette
